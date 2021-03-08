@@ -4,7 +4,8 @@ This makes it so pressing Alt+F4 in Discord closes the window instead of ending 
 If you want to close to system tray, you must have this option enabled:
 - Open Discord and go to User Settings (the gear next to your name), Windows Settings, and enable Minimize to Tray (which should actually be labeled *Close to Tray*c)
 
-There are no modifications being made to any Discord program. This is simply an [AuotHotkey](https://www.autohotkey.com/) script that detects when Alt+F4 is pressed on an active `Discord.exe` window and closes the window instead. The interaction occurs between User<>Windows and not User<>Discord.
+There are no modificati
+ons being made to any Discord program. This is simply an [AuotHotkey](https://www.autohotkey.com/) script that detects when Alt+F4 is pressed on an active `Discord.exe` window and closes the window instead. The interaction occurs between User<>Windows and not User<>Discord.
 
 # Install
 [Download](https://github.com/asheroto/DiscordAltF4/releases/latest/download/DiscordAltF4.exe) and move it into your Startup folder. Then run it.
