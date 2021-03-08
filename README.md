@@ -24,8 +24,6 @@ If Alt+F4 is ending Discord even though `DiscordAltF4.exe` is running:
   - Added single instance so multiple copies of the script don't load
   - Fixed minimizing problem
 
-
-
 # Backlinks
 - https://support.discord.com/hc/en-us/community/posts/360058097712-Closing-Discord-with-X-Button-ALT-F4
 - https://support.discord.com/hc/en-us/community/posts/360040720652-Also-close-to-tray-when-Alt-F4-is-pressed-and-the-relevant-setting-is-enabled
