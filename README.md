@@ -4,7 +4,7 @@ When pressing Alt-F4 on Discord it will end program instead of just closing the 
 # Install
 [Download](https://github.com/asheroto/DiscordAltF4/releases/latest/download/DiscordAltF4.exe) and move it into your Startup folder. Then run it.
 
-To get to the Startup folder, press Win-R which will open Run, then type `shell:startup` and press enter.
+To get to the Startup folder, press Win-R which will open Run, then type `shell:startup` and press enter. The Startup folder contains programs that will automatically run when you log on.
 
 # Usage
 With the Discord window active, press Alt-F4. It should close the window instead of ending the program.
