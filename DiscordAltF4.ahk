@@ -1,6 +1,7 @@
 ; DiscordAltF4
-; Version: 0.0.2
+; Version: 0.0.3
 ; https://github.com/asheroto/DiscordAltF4
+
 
 #SingleInstance, Force
 
