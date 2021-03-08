@@ -4,10 +4,6 @@
 
 #SingleInstance, Force
 
-Hotkey, IfWinActive, ahk_exe Discord.exe
-Hotkey, $!F4, Close
-
-Return
-
-Close:
-WinClose
+#IfWinActive ahk_exe Discord.exe
+    !F4::WinClose
+#IfWinActive
