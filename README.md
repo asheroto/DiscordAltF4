@@ -1,7 +1,7 @@
 # DiscordAltF4
 When pressing Alt+F4 on Discord it will end program instead of just closing the window. This script fixes that by closing the window instead.
 
-There are no modifications being made to any Discord program. This is simply an AuotHotkey script that closes the Discord window that is active when Alt+F4 is pressed.
+There are no modifications being made to any Discord program. This is simply an AuotHotkey script that closes the active Discord window when Alt+F4 is pressed.
 
 # Install
 [Download](https://github.com/asheroto/DiscordAltF4/releases/latest/download/DiscordAltF4.exe) and move it into your Startup folder. Then run it.
