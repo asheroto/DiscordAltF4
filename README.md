@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W64WAXN)
+
 # DiscordAltF4
 This makes it so pressing Alt+F4 in Discord closes the window instead of ending the program.
 
